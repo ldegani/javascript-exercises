@@ -1,6 +1,6 @@
 # Exercise 07 - tempConversion
 
-Write two functions that convert temperatures from Fahrenheit to Celsius, and vice versa:
+Write two functions that convert temeperatures from Fahrenhit to Celsius, and vice versa:
 ```
 convertToCelsius(32) // fahrenheit to celsius, should return 0
 
